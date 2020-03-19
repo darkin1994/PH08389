@@ -42,4 +42,22 @@ export let ListProduct: Product[] = [
     name: 'sản phẩm 7',
     price: 200,
   }
+  ,
+  {
+    id: 8,
+    name: 'sản phẩm 8',
+    price: 200,
+  }
+  ,
+  {
+    id: 9,
+    name: 'sản phẩm 9',
+    price: 200,
+  }
+  ,
+  {
+    id: 10,
+    name: 'sản phẩm 10',
+    price: 200,
+  }
 ];
